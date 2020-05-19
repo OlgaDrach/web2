@@ -1,0 +1,22 @@
+@media(max-width: 1920px){
+    h1{color:green}
+    h2{color:rgb(18, 77, 10)}
+}
+@media(max-width: 750px){
+    h1{color:rgb(45, 48, 45)}
+    h2{color:yellowgreen}
+}
+@media(max-width: 244px){
+    h1{color:rgb(48, 80, 48)}
+    h2{color:goldenrod}
+    .photo{
+    margin: 2px 60px 12px 48px;
+    width: 260px;
+    height: 266p;
+}
+    .photo2{
+        margin: 2px 60px 12px 48px;
+        width: 260px;
+        height: 266px;
+}
+}
